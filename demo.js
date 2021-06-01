@@ -5,5 +5,8 @@ window.onload=function(){
         alert("这是一ggggg个测试代码");
         alert("冲突1")
         alert('冲突2')
+        alert('冲突3')
+        alert("冲突33333")
+        alert("冲突33dddd333")
     })
 }
